@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coletaveis.png-a80df951b3f2677bfd8797e8a0544eb9.stex"
+path="res://.import/player.png-be2216fcaabb5c62aa2466cd9a5726a8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/coletaveis.png"
-dest_files=[ "res://.import/coletaveis.png-a80df951b3f2677bfd8797e8a0544eb9.stex" ]
+source_file="res://assets/player.png"
+dest_files=[ "res://.import/player.png-be2216fcaabb5c62aa2466cd9a5726a8.stex" ]
 
 [params]
 

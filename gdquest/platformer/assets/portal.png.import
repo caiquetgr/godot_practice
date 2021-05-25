@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coletaveis.png-a80df951b3f2677bfd8797e8a0544eb9.stex"
+path="res://.import/portal.png-aead05909ff805293aa08d3705b32f3c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sprites/coletaveis.png"
-dest_files=[ "res://.import/coletaveis.png-a80df951b3f2677bfd8797e8a0544eb9.stex" ]
+source_file="res://assets/portal.png"
+dest_files=[ "res://.import/portal.png-aead05909ff805293aa08d3705b32f3c.stex" ]
 
 [params]
 
