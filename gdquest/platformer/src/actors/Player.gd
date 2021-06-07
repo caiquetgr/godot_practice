@@ -6,8 +6,11 @@ func _on_enemy_detector_area_entered(area: Area2D) -> void:
 	_velocity = calculate_stomp_velocity(_velocity, stomp_impulse)
 
 func _on_enemy_detector_body_entered(body: Node) -> void:
+	die()
+	
+func die() -> void:
+	PlayerData.deaths += 1
 	queue_free()
-	pass # Replace with function body.
 	
 func calculate_stomp_velocity(linear_velocity: Vector2, impulse: float) -> Vector2:
 	
